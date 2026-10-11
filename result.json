@@ -1,0 +1,10 @@
+{
+  "status": "success",
+  "item_total": 37.98,
+  "tax": 3.04,
+  "total": 41.02,
+  "items_not_found": [
+    "Sauce Labs Water Bottle"
+  ],
+  "error": null
+}
